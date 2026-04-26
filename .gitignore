@@ -1,0 +1,11 @@
+# Scratch / eksperimen lokal
+coret-coret.py
+
+# Python cache
+__pycache__/
+*.pyc
+
+.venv/
+
+*.csv
+*.pth
