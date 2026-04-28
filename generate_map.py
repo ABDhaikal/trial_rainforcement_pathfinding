@@ -207,8 +207,9 @@ def main() -> None:
 	else:
 		print(f"Racks placed: {placed}")
 
-	if args.print_grid:
-		print(grid)
+	# if args.print_grid:
+	# print(grid)
+	print(placed)
 
 	if args.show or args.save:
 		title = f"Warehouse Map ({'Random' if config.random_layout else 'Fixed'})"
