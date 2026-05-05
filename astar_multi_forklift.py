@@ -28,7 +28,7 @@ from scipy.optimize import linear_sum_assignment
 GridPos = Tuple[int, int]
 ANIMATION_CACHE: List[object] = []
 MAX_TIME_LIMIT = 500
-
+# haikal ganteng
 
 # =====================================================================
 # DQN Network (Must match the one in hungarian_rainfocement/v2)
